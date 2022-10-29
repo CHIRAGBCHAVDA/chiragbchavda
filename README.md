@@ -31,18 +31,19 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style="display:flex;justify-content:space-between">
 
 [![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=LinkedIn&logoColor=blue)](https://chirag-chavda.netlify.app/) 
 [![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Instagram&logoColor=red)](https://chirag-chavda.netlify.app/) 
 [![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=Leetcode&logoColor=yellow)](https://chirag-chavda.netlify.app/) 
 
+
+</div>
 <span align="center">
 
 [![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Twitter&logoColor=blue)](https://chirag-chavda.netlify.app/)
 
 </span> 
-</p>
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
