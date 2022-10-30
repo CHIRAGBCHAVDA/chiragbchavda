@@ -27,18 +27,6 @@
 - [![Website Badge](https://img.shields.io/badge/App-MySiri-orange?style=flat&logo=python&logoColor=lightblue)](https://github.com/CHIRAGBCHAVDA/My-Siri) 
 
 
-<h3 align="left">Connect with me:</h3>
-<div style="display:flex;justify-content:space-between">
-
-[![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=LinkedIn&logoColor=blue)](https://linkedin.com/in/chirag-chavda) 
-[![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Instagram&logoColor=red)](https://instagram.com/hacker_0369) 
-[![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=Leetcode&logoColor=yellow)](https://leetcode.com/chirag_chavda) 
-[![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/hacker_0369)
-
-
-</div>
-
- 
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
@@ -57,8 +45,21 @@
 <br>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragbchavda&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiragbchavda" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragbchavda&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiragbchavda" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragbchavda&hide=contribs&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbchavda&theme=radical" alt="chiragbchavda" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragbchavda&hide=contribs&show_icons=true&theme=radical" /></p>
+<h3 align="left">Connect with me:</h3>
+<div style="display:flex;justify-content:space-between">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbchavda&theme=radical" alt="chiragbchavda" /></p>
+[![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=LinkedIn&logoColor=blue)](https://linkedin.com/in/chirag-chavda) 
+[![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Instagram&logoColor=red)](https://instagram.com/hacker_0369) 
+[![Website Badge](https://img.shields.io/badge/Chirag_Chavda-white?style=flat&logo=Leetcode&logoColor=yellow)](https://leetcode.com/chirag_chavda) 
+[![Website Badge](https://img.shields.io/badge/Hacker_0369-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/hacker_0369)
+
+<h1 align="left">
+         
+[![Website Badge](https://img.shields.io/badge/Thanks_For_Visiting_!!-_~_Chirag-pink?style=flat&logo=github&logoColor=white)](https://chirag-chavda.netlify.app/)
+</h1>
+
+</div>
